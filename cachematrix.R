@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Cached Accessor function for a matrix and its inverse
 
 ## The following function takes a matrix as argument and returns a
 ## list of functions set(sets the value of the matrix), get(get the matrix)
